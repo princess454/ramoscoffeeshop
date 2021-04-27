@@ -4,7 +4,6 @@ body {background-color: #d0caca;
 	font-family: 'open_sansregular';
 	font-size: 12px;
 	margin: 0;
-	min-width: 960px;
 	padding: 0;
 }
 li a {
@@ -26,13 +25,13 @@ p a:hover {
 	color: #bfcb75;
 }
 #page {
-	background: url(../images/bg-page.png) repeat;
+	background: url(bg-page.png) repeat;
 	margin: 30px auto 0;
 	padding: 10px;
 	width: 940px;
 }
 #page div {
-	background: #f5f1e6 url(../images/bg-logo.jpg) no-repeat left top;
+	background: #f5f1e6 url(bg-logo.jpg) no-repeat left top;
 	padding: 0;
 	width: 940px;
 }
@@ -70,7 +69,7 @@ p a:hover {
 	border-bottom: 5px solid #a2b83c;
 }
 #page div div#body {
-	background: url(../images/separator-long.png) no-repeat bottom center;
+	background: url(separator-long.png) no-repeat bottom center;
 	padding: 0 0 10px;
 }
 #page div div#body div#figure {
@@ -96,7 +95,7 @@ p a:hover {
 	width: 590px;
 }
 #page div div#body div#figure span#home a {
-	background: url(../images/bg-find-out.png) repeat;
+	background: url(bg-find-out.png) repeat;
 	color:#191714;
 	display: inline-block;
 	font-size: 20px;
@@ -110,7 +109,7 @@ p a:hover {
 	vertical-align: middle;
 }
 #page div div#body div#figure span#home a:hover {
-	background: url(../images/bg-find-out-hover.png) repeat;
+	background: url(bg-find-out-hover.png) repeat;
 }
 #page div div#body div {
 	background: none;
@@ -171,7 +170,7 @@ p a:hover {
 	width: 220px;
 }
 #page div div#body div div ul li div {
-	background: url(../images/bg-item-title.png) no-repeat center top;
+	background: url(bg-item-title.png) no-repeat center top;
 	height: 57px;
 	float: none;
 	margin: 0 auto;
@@ -211,7 +210,7 @@ p a:hover {
 	width: 231px;
 }
 #page div div#body div#featured span.whatshot {
-	background: url(../images/whats-hot.jpg) no-repeat left top;
+	background: url(whats-hot.jpg) no-repeat left top;
 	display: block;
 	float: left;
 	height: 189px;
@@ -220,7 +219,7 @@ p a:hover {
 	width: 237px;
 }
 #page div div#body div#featured span.whatshot a {
-	background: url(../images/bg-find-out2.png) repeat;
+	background: url(bg-find-out2.png) repeat;
 	color: #8c7548;
 	display: inline-block;
 	height: 30px;
@@ -234,19 +233,19 @@ p a:hover {
 	text-decoration: none;
 }
 #page div div#body div#featured span.whatshot a:hover {
-	background: url(../images/bg-find-out2-hover.png) repeat;
+	background: url(bg-find-out2-hover.png) repeat;
 }
 #page div div#body div a.about {
-	background: url(../images/about.jpg) no-repeat left top;
+	background: url(about.jpg) no-repeat left top;
 }
 #page div div#body div a.locations {
-	background: url(../images/locations.jpg) no-repeat left top;
+	background: url(locations.jpg) no-repeat left top;
 }
 #page div div#body div a.whatshot {
-	background: url(../images/whats-hot2.jpg) no-repeat left top;
+	background: url(whats-hot2.jpg) no-repeat left top;
 }
 #page div div#body div a.blog {
-	background: url(../images/blog.jpg) no-repeat left top;
+	background: url(blog.jpg) no-repeat left top;
 }
 #page div div#body div div#blog ul:first-child {
 	background: none;
@@ -256,7 +255,7 @@ p a:hover {
 	width: 460px;
 }
 #page div div#body div div#blog ul:first-child li {
-	background: url(../images/separator-blog-entry.png) no-repeat center top;
+	background: url(separator-blog-entry.png) no-repeat center top;
 	float: none;
 	height: auto;
 	padding: 40px 0 15px;
@@ -408,7 +407,7 @@ p a:hover {
 	margin: 0 0 0 5px;
 }
 #page div div#body div.section {
-	background: #3c200b url(../images/separator-content.jpg) no-repeat top center;
+	background: #3c200b url(separator-content.jpg) no-repeat top center;
 	overflow: hidden;
 	padding: 30px 30px 0;
 	width: 880px;	
@@ -449,7 +448,7 @@ p a:hover {
 	width: 190px;
 }
 #page div div#body div.section ul li a.readmore {
-	background: url(../images/icon-arrow.png) no-repeat left center;
+	background: url(icon-arrow.png) no-repeat left center;
 	color:#aac34a;
 	display: inline-block;
 	float: right;
@@ -474,7 +473,7 @@ p a:hover {
 	display: block;
 }
 #page div div#body div.section div {
-	background: url(../images/bg-recent-blog.jpg) no-repeat;
+	background: url(bg-recent-blog.jpg) no-repeat;
 	float: right;
 	height: 398px;
 	padding: 0;
@@ -486,7 +485,7 @@ p a:hover {
 	width: auto;
 }
 #page div div#body div.section div ul li {
-	background: url(../images/separator-recent-blog.jpg) no-repeat center top;
+	background: url(separator-recent-blog.jpg) no-repeat center top;
 	display: block;
 	float: none;
 	height: auto;
@@ -495,7 +494,7 @@ p a:hover {
 	width: 220px;
 }
 #page div div#body div.section div ul li:first-child {
-	background: url(../images/separator-recent-blog-1st.jpg) no-repeat center top;
+	background: url(separator-recent-blog-1st.jpg) no-repeat center top;
 }
 #page div div#body div.section div ul li h3 {
 	font-family: 'UltraRegular';
